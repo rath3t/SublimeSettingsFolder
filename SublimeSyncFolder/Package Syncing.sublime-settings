@@ -1,0 +1,20 @@
+{
+  "files_to_include":
+  [
+    "*.aff",
+    "*.dic",
+    "*.txt",
+    "*.sublime-build",
+    "*.sublime-commands",
+    "*.sublime-completions",
+    "*.sublime-keymap",
+    "*.sublime-menu",
+    "*.sublime-settings",
+    "*.sublime-snippet",
+    "*.sublime-macro",
+    "*.tmLanguage",
+    "*.tmTheme",
+  ],
+  "sync": true,
+  "sync_folder": ""
+}
