@@ -6,7 +6,6 @@
 	"installed_packages":
 	[
 		"A File Icon",
-		"Agila Theme",
 		"Alignment",
 		"APDL (ANSYS) Syntax Highlighting",
 		"Auto Refresh",
@@ -22,19 +21,16 @@
 		"LaTeX-cwl",
 		"LaTeXTools",
 		"LaTeXYZ",
-		"Material Theme",
 		"Monokai - Spacegray",
-		"One Dark Color Scheme",
 		"Package Control",
 		"Package Syncing",
 		"PackageResourceViewer",
 		"Print to HTML",
 		"SideBarEnhancements",
-		"Theme - Brogrammer",
-		"Theme - Spacegray"
 	],
 	"repositories":
 	[
-		"https://github.com/rath3t/citebibtex"
+		"https://github.com/rath3t/citebibtex",
+		"https://github.com/rath3t/BeautifyLatex"
 	]
 }
