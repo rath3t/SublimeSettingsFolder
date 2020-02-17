@@ -1,0 +1,10 @@
+<snippet>
+	<content><![CDATA[
+\begin{enumerate}
+  \item ${1}
+\end{enumerate}
+]]></content>
+	<tabTrigger>enumerate</tabTrigger>
+	<scope>text.tex.latex</scope>
+	<description>IBB_Enumerate</description>
+</snippet>

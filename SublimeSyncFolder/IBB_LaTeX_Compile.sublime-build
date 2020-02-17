@@ -1,0 +1,4 @@
+{
+    "shell_cmd": "latexmk -auxdir=tmp --enable-write18 --shell-escape --interaction=nonstopmode --extra-mem-bot=10000000 --src-specials --synctex=-1 -pdf \"$file\" && latexmk -c",
+    "selector": "text.tex.latex"
+}

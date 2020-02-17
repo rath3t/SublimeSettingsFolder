@@ -1,0 +1,14 @@
+<snippet>
+	<content><![CDATA[
+\begin{table}
+\begin{tabular}{${1:columns}}
+${2}
+\end{tabular}
+\caption{${3:tablecaption}}
+\label{${4:tablelabel}}
+\end{table}
+]]></content>
+	<tabTrigger>table</tabTrigger>
+	<scope>text.tex.latex</scope>
+	<description>IBB_Table</description>
+</snippet>

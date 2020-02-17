@@ -1,0 +1,15 @@
+<snippet>
+	<content><![CDATA[
+\begin{figure}[t]
+	\centering
+		\includegraphics[width=1.0\textwidth]{${1:filename}}     % Grafik: png, jpg, pdf
+		\includesvg{${2:filename}}                              % Inkscape Build
+		\includegp{${3:filename}}                               % Gnuplot mit tkiz
+	\caption{${4:figureCaption}}
+	\label{fig:${5:figurelabel}}
+\end{figure}
+]]></content>
+	<tabTrigger>figure</tabTrigger>
+	<scope>text.tex.latex</scope>
+	<description>IBB_Figure</description>
+</snippet>

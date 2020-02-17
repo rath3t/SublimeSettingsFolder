@@ -1,0 +1,107 @@
+[
+	{"id": "side-bar-files-open-with",
+		"children":
+		[
+
+			//application 1
+			// {
+			// 	"caption": "Photoshop",
+			// 	"id": "side-bar-files-open-with-photoshop",
+
+			// 	"command": "side_bar_files_open_with",
+			// 	"args": {
+			// 						"paths": [],
+			// 						"application": "Adobe Photoshop CS5.app", // OSX
+			// 						"extensions":"psd|png|jpg|jpeg",  //any file with these extensions
+			// 						"args":[]
+			// 					},
+			// 	"open_automatically" : false // will close the view/tab and launch the application
+			// },
+
+			//separator
+			{"caption":"-"},
+
+			//application 2
+			// {
+			// 	"caption": "SeaMonkey",
+			// 	"id": "side-bar-files-open-with-seamonkey",
+
+			// 	"command": "side_bar_files_open_with",
+			// 	"args": {
+			// 						"paths": [],
+			// 						"application": "C:\\Archivos de programa\\SeaMonkey\\seamonkey.exe", // WINNT
+			// 						"extensions":"", //open all even folders
+			// 						"args":[]
+			// 					},
+			// 	"open_automatically" : false // will close the view/tab and launch the application
+			// },
+			//application n
+			// {
+			// 	"caption": "Chrome",
+			// 	"id": "side-bar-files-open-with-chrome",
+
+			// 	"command": "side_bar_files_open_with",
+			// 	"args": {
+			// 						"paths": [],
+			// 						"application": "C:\\Documents and Settings\\tito\\local\\Datos de programa\\Google\\Chrome\\Application\\chrome.exe",
+			// 						"extensions":".*", //any file with extension
+			// 						"args":[]
+			// 			},
+			// 	"open_automatically" : false // will close the view/tab and launch the application
+			// },
+			{
+				"caption": "Inkscape",
+				"id": "side-bar-files-open-with-inkscape",
+
+				"command": "side_bar_files_open_with",
+				"args": {
+									"paths": [],
+									"application": "C:/Program Files/Inkscape/Inkscape.exe",
+									"extensions":".svg", //any file with extension
+									"args":[]
+						},
+				"open_automatically" : false // will close the view/tab and launch the application
+			},
+			{
+				"caption": "SumatraPDF",
+				"id": "side-bar-files-open-with-SumatraPDF",
+
+				"command": "side_bar_files_open_with",
+				"args": {
+									"paths": [],
+									"application": "C:/Program Files/SumatraPDF/SumatraPDF.exe",
+									"extensions":".pdf", //any file with extension
+									"args":[]
+						},
+				"open_automatically" : true // will close the view/tab and launch the application
+			},
+			{
+				"caption": "LS-PrePost",
+				"id": "side-bar-files-open-with-LS-PrePost",
+
+				"command": "side_bar_files_open_with",
+				"args": {
+									"paths": [],
+									"application": "C:/Users/ac126718/Documents/lsprepost4.5_x64.exe",
+									"extensions":".k", //any file with extension
+									"args":[]
+						},
+				"open_automatically" : false // will close the view/tab and launch the application
+			},
+			{
+				"caption": "Gnuplot",
+				"id": "side-bar-files-open-with-LS-PrePost",
+
+				"command": "side_bar_files_open_with",
+				"args": {
+									"paths": [],
+									"application": "C:/Program Files/gnuplot/bin/wgnuplot.exe",
+									"extensions":".gp", //any file with extension
+									"args":[]
+						},
+				"open_automatically" : false // will close the view/tab and launch the application
+			},
+			{"caption":"-"}
+		]
+	}
+]

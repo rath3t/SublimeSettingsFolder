@@ -1,0 +1,36 @@
+[
+ { "keys": ["ctrl+shift+7"], "command": "toggle_comment", "args": { "block": false } },
+ { "keys": ["ctrl+shift+alt+7"], "command": "toggle_comment", "args": { "block": true } },
+
+
+ { "keys": ["ctrl+ö"], "command": "show_panel", "args": {"panel": "console", "toggle": true} },
+
+
+        // { "keys": ["f12"],
+        //     "command": "side_bar_open_in_browser" ,
+        //     "args":{"paths":[], "type":"testing", "browser":""}
+        // },
+        // { "keys": ["alt+f12"],
+        //     "command": "side_bar_open_in_browser",
+        //     "args":{"paths":[], "type":"production", "browser":""}
+        // // },
+        // {
+        //     "keys": ["ctrl+t"],
+        //     "command": "side_bar_new_file2"
+        // },
+        {
+            "keys": ["f2"],
+        "command": "side_bar_rename"        },
+        {
+            "keys": ["strg+ä"],
+        "command": "side_bar_delete"        },
+        { "keys": ["ctrl+alt+l"], "command": "beautify_latex" },
+              { // Open in Sublime Merge
+                "keys": ["ctrl+alt+z"],
+                "command": "sublime_merge_open_repo"
+            },
+
+
+        ]
+
+

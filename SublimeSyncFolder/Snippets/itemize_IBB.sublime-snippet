@@ -1,0 +1,10 @@
+<snippet>
+	<content><![CDATA[
+\begin{itemize}
+  \item $1
+\end{itemize}
+]]></content>
+	<tabTrigger>itemize</tabTrigger>
+	<scope>text.tex.latex</scope>
+	<description>IBB_Itemize</description>
+</snippet>

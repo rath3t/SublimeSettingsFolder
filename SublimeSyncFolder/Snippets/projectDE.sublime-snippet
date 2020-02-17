@@ -1,0 +1,21 @@
+<snippet>
+	<content><![CDATA[
+ {
+	"folders":
+	[
+		{
+			"path": "."
+		},
+	
+	],
+	"settings":
+	{
+		"TEXroot": "thesis.tex",
+		"dictionary": "Packages/User/Dictionaries/German.dic"
+	}
+}
+]]></content>
+	<tabTrigger>projectDE</tabTrigger>
+	<scope></scope>
+	<description>IBB_German_Project</description>
+</snippet>

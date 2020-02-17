@@ -1,0 +1,11 @@
+<snippet>
+	<content><![CDATA[
+\begin{align}
+$1
+\end{align}
+$2
+]]></content>
+	<tabTrigger>align</tabTrigger>
+	<scope>text.tex.latex</scope>
+	<description>IBB_align</description>
+</snippet>

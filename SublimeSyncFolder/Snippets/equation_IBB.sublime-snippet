@@ -1,0 +1,13 @@
+<snippet>
+	<content><![CDATA[
+\begin{equation}
+\begin{aligned}
+$1
+\end{aligned}
+\end{equation}
+$2
+]]></content>
+	<tabTrigger>equation</tabTrigger>
+	<scope>text.tex.latex</scope>
+	<description>IBB_equation</description>
+</snippet>

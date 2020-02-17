@@ -1,0 +1,11 @@
+{
+
+// Previewer or cups/lpr front end. evince, okular,
+// acroread, xpp, gtklp, xpdf, etc. For linux, this
+// program must be in your path. For Windows, please
+// include the full path and full executable filename
+// hint: use windows "which" command to discover
+// path and full filename
+"previewer/printer" : "C:/Program Files/SumatraPDF/SumatraPDF.exe",
+
+}

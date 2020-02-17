@@ -1,0 +1,56 @@
+{    "show_in_minimap": true,
+    "content_highlight_bar": true,
+    "align_content_highlight_bar": true,
+    "bracket_styles": {
+        // This particular style is used to highlight
+        // unmatched bracket pairs. It is a special
+        // style.
+        "unmatched": {
+            "icon": "question",
+            "color": "brackethighlighter.unmatched",
+            "style": "highlight"
+        },
+        // User defined region styles
+        "curly": {
+            "icon": "curly_bracket",
+            "color": "region.bluish",
+            "style": "underline"
+        },
+        "round": {
+            "icon": "round_bracket",
+            "color": "region.orangeish",
+            "style": "underline"
+
+        },
+        "square": {
+            "icon": "square_bracket",
+            "color": "region.greenish",
+            "style": "outline"
+        },
+        "angle": {
+            "icon": "angle_bracket",
+            "color": "region.yellowish",
+            "style": "outline"
+        },
+        "tag": {
+            "icon": "tag",
+            "color": "brackethighlighter.tag",
+            "style": "outline"
+        },
+        "single_quote": {
+            "icon": "single_quote",
+            "color": "region.purpleish",
+            "style": "outline"
+        },
+        "double_quote": {
+            "icon": "double_quote",
+            "color": "region.redish",
+            "style": "outline"
+        },
+        "regex": {
+            "icon": "regex",
+            "color": "brackethighlighter.quote",
+            "style": "outline"
+        }
+    }
+}
