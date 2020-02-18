@@ -83,10 +83,14 @@
 			"selector": "text.tex.latex"
 		}
 	],
-	"color_scheme": "Packages/Material Theme/schemes/Material-Theme.tmTheme",
 	"dictionary": "Packages/Language - English/en_US.dic",
 	"font_size": 8,
-	"gni_003": false,
+	"gnc_001": false,
+	"gnc_002": false,
+	"gnc_h11": true,
+	"gnc_m05": true,
+	"gnc_m11": true,
+	"gnwidgx": true,
 	"ignored_packages":
 	[
 		"Vintage"
@@ -194,7 +198,7 @@
 	"material_theme_small_tab": true,
 	"material_theme_tabs_autowidth": true,
 	"tab_size": 2,
-	"theme": "Material-Theme.sublime-theme",
+	"theme": "Default.sublime-theme",
 	"translate_tabs_to_spaces": true,
 	"trim_trailing_white_space_on_save": true
 }
